@@ -1,0 +1,96 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #F1E7DD;
+  background-color: #1D403C;
+}
+
+header {
+  width: 1200px;
+  height: 600px;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+nav {
+  text-align: right;
+  padding: 30px;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+  padding-left: 30px;
+}
+
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.third-width {
+  width: 340px;
+  float: left;
+  padding: 0 30px;
+}
+
+#about {
+  height: 1000px;
+}
+
+#about p {
+  padding: 0 180px;
+}
+
+#portfolio {
+  height: 800px;
+}
+
+#contact {
+  height: 500px;
+  padding-top: 100px;
+  background-color: #BBCAD1;
+  color: #373E40;
+}
+
+img {
+  max-width: 300px;
+  padding: 10px 20px;
+}
+
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: inherit;
+  font-size: 24px;
+}
+
+p {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 24px;
+}
+
+span {
+  font-weight: bold;
+  font-size: 26px;
+}
+
+h1 {
+  font-size: 64px;
+  color: #BBCAD1;
+}
+
+h2 {
+  font-size: 42px;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-size: 36px;
+}
